@@ -18,6 +18,7 @@ file_name = f"{safe_commit}_{timestamp}_v{safe_version}.doc"
 
 # Create HTML content
 html_content = f"""<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="UTF-8">

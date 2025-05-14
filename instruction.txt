@@ -4,7 +4,10 @@ put the script anywhere of your drive . Let's say Desktop
 
 Then open the terminal and type cd Desktop
 
-After that type python File_Naming.py
+After that type python File_Naming_v1.py
+or python File_Naming_v2.py
+or python File_Naming_v3.py
+choose any of the 3 which you want to run 
 
 Boom !! That's it ...You can also check the video if requires
 
