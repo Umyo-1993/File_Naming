@@ -1,0 +1,11 @@
+your local machine needs to be Python installed
+
+put the script anywhere of your drive . Let's say Desktop
+
+Then open the terminal and type cd Desktop
+
+After that type python File_Naming.py
+
+Boom !! That's it ...You can also check the video if requires
+
+U Mo 
